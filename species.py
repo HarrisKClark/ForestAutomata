@@ -7,7 +7,7 @@ FPS = 30
 CELLSIZE = 5
 
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Forest Automata")
+pygame.display.set_caption("ForestAutomata")
 
 
 class ground:
